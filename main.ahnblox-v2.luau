@@ -10,7 +10,7 @@ getgenv().Configs = {
 	SkullGuitar = true,
 	RaceV3 = true,
 	BackgroundImage = "https://imagetourls.com/vi/v?u=https%3A%2F%2Fcdn.imagetourls.com%2Fuploads%2FtyImg%2FgycJHD7u.jpg", -- link anh nen (png/jpg). De trong = nen mac dinh
-	BackgroundTransparency = 0.35 -- do mo cua anh (0 = ro net, 1 = an hoan toan)
+	BackgroundTransparency = 0.1 -- do mo cua anh (0 = ro net, 1 = an hoan toan)
 }
 --]]
 
