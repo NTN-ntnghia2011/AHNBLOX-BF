@@ -9,7 +9,7 @@ getgenv().Configs = {
 	CursedDualKatana = true,
 	SkullGuitar = true,
 	RaceV3 = true,
-	BackgroundImage = "https://cdn.phototourl.com/member/2026-10-24-07f27118-2d74-480f-bf2a-ab9dc52304ed.jpg", -- link anh nen (png/jpg). De trong = nen mac dinh
+	BackgroundImage = "https://imagetourls.com/vi/v?u=https%3A%2F%2Fcdn.imagetourls.com%2Fuploads%2FtyImg%2FgycJHD7u.jpg", -- link anh nen (png/jpg). De trong = nen mac dinh
 	BackgroundTransparency = 0.35 -- do mo cua anh (0 = ro net, 1 = an hoan toan)
 }
 --]]
